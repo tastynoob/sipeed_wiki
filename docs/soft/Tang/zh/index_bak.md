@@ -58,6 +58,6 @@ Dynasty)，其中 TD 软件自带全系列的参考文档。
 
 另外，TD 亦可在如下网址下载：
 
-<https://pan.baidu.com/s/1LaYo2UrDx6QPIc6VkfdsHA> 提取码：2zlw
+<https://dl.sipeed.com/shareURL/TANG/Premier/IDE> 下载最新版安路TD开发软件和最新版许可证
 
 ![](./../assets/QQ_Group_2.jpg)
